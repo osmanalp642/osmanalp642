@@ -14,7 +14,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="[https://linkedin.com/in/yourlink](https://www.linkedin.com/in/osman-alparslan-128b1a217/)" target="blank">
+<a href="https://www.linkedin.com/in/osman-alparslan-128b1a217/" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
